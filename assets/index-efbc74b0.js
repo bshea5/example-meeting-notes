@@ -98,8 +98,8 @@ Error generating stack: `+o.message+`
 # Markdown Meeting Note
 
 *Date:* ${new Date().toLocaleDateString()}
-*Note taker:* Simon Johansson
-*Attendees:* Marcus, Johan, Erik
+*Note taker:* Brandon Shea
+*Attendees:* Me, Myself, & I
 
 ---
 
